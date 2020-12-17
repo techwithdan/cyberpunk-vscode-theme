@@ -1,13 +1,9 @@
-# README
-## This is the README for your extension "cyberpunk-theme"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Cyberpunk 2077 Theme for VS Code
+Thanks for checking out my VS Code theme. I was inspiried by the release of cyberpunk 2077 to create this awesome retro theme.
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+I hope you enjoy this as much as I do and please let me know what you think and any other suggestions on how I can improve this.
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+# Font
+I am using Fire Code as my choice of font that you see in the examples.
 
 **Enjoy!**
