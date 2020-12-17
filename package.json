@@ -1,0 +1,37 @@
+{
+    "name": "cyberpunk-theme",
+    "displayName": "cyberpunk-theme",
+    "description": "cyberpunk inspired theme",
+    "publisher": "techwithdan",
+    "author": {
+        "name": "Daniel Castro"
+    },
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/techwithdan/cyberpunk-vscode-theme"
+    },
+    "icon": "images/icon/logo.png",
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "cyberpunk",
+        "2077",
+        "Dark Theme",
+        "neon",
+        "retro"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "cyberpunk theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/cyberpunk theme-color-theme.json"
+            }
+        ]
+    }
+}
